@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="efe449dd830302107690f629feaad3fb" sys_domain="global" table="x_359279_mdo_appli_wishlist" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 09:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fbe449dd830302107690f629feaad3ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_359279_mdo_appli_wishlist" name="x_359279_mdo_appli_wishlist" sys_domain="global" view="Default view">efe449dd830302107690f629feaad3fb</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_359279_mdo_appli_wishlist" sys_domain="global" view="Default view">3a640d5d830302107690f629feaad399</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 09:49:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 09:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7e489dd830302107690f629feaad300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_359279_mdo_appli_wishlist" name="x_359279_mdo_appli_wishlist" sys_domain="global" view="Default view">efe449dd830302107690f629feaad3fb</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_359279_mdo_appli_wishlist" sys_domain="global" view="Default view">6fe449dd830302107690f629feaad3fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 09:49:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_359279_mdo_appli_wishlist</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 09:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>efe449dd830302107690f629feaad3fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_359279_mdo_appli_wishlist</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MDO Application" source="x_359279_mdo_appli">7b810155830302107690f629feaad3fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MDO Application">7b810155830302107690f629feaad3fc</sys_scope>
+            <sys_update_name>sys_ui_form_sections_efe449dd830302107690f629feaad3fb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 09:49:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="e5c3019d830302107690f629feaad350" label="wishlist" max_length="40" name="x_359279_mdo_appli_wishlist" type="collection">
+        <element label="importance" max_length="40" name="importance" type="boolean"/>
+        <element label="wish" max_length="40" name="wish" type="string"/>
+    </element>
+</database>
